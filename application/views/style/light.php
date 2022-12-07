@@ -1,0 +1,7 @@
+<style>
+    @import "cart.css";
+body{
+    background-Color: rgb(245, 176, 87);
+    color: #000;
+}
+</style>
